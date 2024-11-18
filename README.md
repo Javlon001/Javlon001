@@ -1,3 +1,4 @@
+![Alt Text](./qw.jpg)
 # Javlonbek Ismonov 📊  
 ### Financial Risk and Data Analysis Student  
 
