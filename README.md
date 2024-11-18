@@ -1,4 +1,4 @@
-![Alt Text](./qw.jpg)
+![Alt Text](./pexels-firmbee-com-22729701-7013100.jpg)
 # Javlonbek Ismonov 📊  
 ### Financial Risk and Data Analysis Student  
 
