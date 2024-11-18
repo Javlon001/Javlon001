@@ -1,16 +1,28 @@
-## Hi there 👋
+# Javlonbek Ismonov 📊  
+### Financial Risk and Data Analysis Student  
 
-<!--
-**Javlon001/Javlon001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a passionate **Financial Risk and Data Analysis Student** currently studying at **Sapienza University of Rome**. I enjoy combining my skills in finance and data science to solve complex challenges and uncover actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Areas of Expertise:
+- 📈 Financial Risk Analysis  
+- 📊 Data Visualization and Modeling  
+- 🤖 Machine Learning and AI in Finance  
+- 🧮 Statistical Analysis for Decision-Making  
+
+---
+
+## 🌐 Connect with Me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/javlonbek-ismonov-a995b2209)  
+- 📂 [Portfolio](https://github.com/javlon001)  
+
+### Highlights:
+🚀 Erasmus+ Alum, University of Bern  
+📚 Master's in Financial Risk and Data Analysis  
+💡 Enthusiastic about applying AI to bridge economic gaps globally  
+
+
+
+- ⚡ Fun fact: I love listening to white noise while working on something serious!
+
