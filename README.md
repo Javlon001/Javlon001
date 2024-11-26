@@ -7,7 +7,7 @@ Hi there! I'm a passionate **Financial Risk and Data Analysis Student** currentl
 ---
 
 ## 🌟 Areas of Expertise:
-- 📈 Financial Risk Analysis  
+- 📈 Financial Analysis  
 - 📊 Data Visualization and Modeling  
 - 🤖 Machine Learning and AI in Finance  
 - 🧮 Statistical Analysis for Decision-Making  
