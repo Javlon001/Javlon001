@@ -21,7 +21,7 @@ Hi there! I'm a passionate **Financial Risk and Data Analysis Student** currentl
 
 ## 🌐 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/javlonbek-ismonov-a995b2209)  
-- 📂 [Portfolio](https://github.com/javlon001)  
+- 📂 [Portfolio](https://javlon001.github.io)  
 
 ### Highlights:
 🚀 Erasmus+ Alum, University of Bern  
