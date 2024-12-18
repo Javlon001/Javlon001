@@ -1,5 +1,9 @@
 ![Alt Text](./pexels-firmbee-com-22729701-7013100.jpg)
-
+<p align="center">
+  <a href="https://javlon001.github.io">
+    <img src="./portfolio1.png" alt="Portfolio" width="300" />
+  </a>
+</p>
 
 # Javlonbek Ismonov |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javlonbek-ismonov-a995b2209/) 
 
