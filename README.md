@@ -5,7 +5,10 @@
   </a>
 </p>
 
+---
+
 # Javlonbek Ismonov |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javlonbek-ismonov-a995b2209/) 
+
 
 ### Financial Risk and Data Analysis Student  
 
